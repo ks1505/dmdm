@@ -1,1 +1,1 @@
-worker: bot.js npm start
+worker: SCRIPT=bot.js npm start
